@@ -10,7 +10,10 @@ Requires that the Zettlekasten files ends with:
 EOF"
 
 Also add resources\folders.txt containing
+
 "# Key:Value
+
 Litterature:Path_to_litterature_folder
+
 Zettelkasten:Path_to_zettlekasten_folder
 
